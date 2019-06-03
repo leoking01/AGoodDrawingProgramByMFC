@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "drawcli", "drawcli.vcxproj", "{D9B4ABB0-B318-BC6A-9FE8-D2C69667E8E9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "drawcli", "drawcli.vcxproj", "{F721D890-166E-6357-5426-3A469D3E1937}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,14 +11,14 @@ Global
 		Unicode Release|Win32 = Unicode Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D9B4ABB0-B318-BC6A-9FE8-D2C69667E8E9}.Debug|Win32.ActiveCfg = Debug|Win32
-		{D9B4ABB0-B318-BC6A-9FE8-D2C69667E8E9}.Debug|Win32.Build.0 = Debug|Win32
-		{D9B4ABB0-B318-BC6A-9FE8-D2C69667E8E9}.Release|Win32.ActiveCfg = Release|Win32
-		{D9B4ABB0-B318-BC6A-9FE8-D2C69667E8E9}.Release|Win32.Build.0 = Release|Win32
-		{D9B4ABB0-B318-BC6A-9FE8-D2C69667E8E9}.Unicode Debug|Win32.ActiveCfg = Unicode Debug|Win32
-		{D9B4ABB0-B318-BC6A-9FE8-D2C69667E8E9}.Unicode Debug|Win32.Build.0 = Unicode Debug|Win32
-		{D9B4ABB0-B318-BC6A-9FE8-D2C69667E8E9}.Unicode Release|Win32.ActiveCfg = Unicode Release|Win32
-		{D9B4ABB0-B318-BC6A-9FE8-D2C69667E8E9}.Unicode Release|Win32.Build.0 = Unicode Release|Win32
+		{F721D890-166E-6357-5426-3A469D3E1937}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F721D890-166E-6357-5426-3A469D3E1937}.Debug|Win32.Build.0 = Debug|Win32
+		{F721D890-166E-6357-5426-3A469D3E1937}.Release|Win32.ActiveCfg = Release|Win32
+		{F721D890-166E-6357-5426-3A469D3E1937}.Release|Win32.Build.0 = Release|Win32
+		{F721D890-166E-6357-5426-3A469D3E1937}.Unicode Debug|Win32.ActiveCfg = Unicode Debug|Win32
+		{F721D890-166E-6357-5426-3A469D3E1937}.Unicode Debug|Win32.Build.0 = Unicode Debug|Win32
+		{F721D890-166E-6357-5426-3A469D3E1937}.Unicode Release|Win32.ActiveCfg = Unicode Release|Win32
+		{F721D890-166E-6357-5426-3A469D3E1937}.Unicode Release|Win32.Build.0 = Unicode Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

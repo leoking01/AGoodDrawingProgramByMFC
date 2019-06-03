@@ -1,7 +1,6 @@
-//Download by http://www.NewXing.com
 //{{NO_DEPENDENCIES}}
-// Microsoft Developer Studio generated include file.
-// Used by DRAWCLI.RC
+// Microsoft Visual C++ generated include file.
+// Used by drawcli.rc
 //
 #define IDR_MAINFRAME                   2
 #define IDR_DRAWCLTYPE                  3
@@ -56,13 +55,16 @@
 #define ID_FILE_SUMMARYINFO             32792
 #define ID_BUTTON32810                  -32726
 #define ID_BUTTON32811                  -32725
+#define ID_BUTTON32812                  32812
+#define ID_BUTTON32813                  32813
+#define ID_BUTTON32814                  32814
 
 // Next default values for new objects
-//
+// 
 #ifdef APSTUDIO_INVOKED
 #ifndef APSTUDIO_READONLY_SYMBOLS
 #define _APS_NEXT_RESOURCE_VALUE        110
-#define _APS_NEXT_COMMAND_VALUE         32812
+#define _APS_NEXT_COMMAND_VALUE         32815
 #define _APS_NEXT_CONTROL_VALUE         124
 #define _APS_NEXT_SYMED_VALUE           101
 #endif
